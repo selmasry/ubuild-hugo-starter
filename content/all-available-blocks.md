@@ -115,7 +115,7 @@ caption = ""
 image = "/uploads/2018/06/21/drone-photo.jpeg"
 [page_sections.image_2]
 caption = "Captions are optional"
-image = "/uploads/2018/06/21/drone-photo.jpeg"
+image = "/uploads/11-PERCENT-HOMEOPATHY-INFOGRAPHIC-1024x655.jpg"
 [[page_sections]]
 block = "cta-bar"
 content = "This form uses formspree, so you can plugin in an email address and start receiving submissions right away"
