@@ -47,7 +47,7 @@ block = "hero-1"
 heading = "All<br><strong>available blocks.</strong>"
 template = "text-only-hero-banner"
 [[page_sections]]
-background_image = "/uploads/2018/06/21/hero-2-bg.png"
+background_image = "/uploads/2018/06/21/drone-photo.jpeg"
 block = "hero-2"
 content = "We have blocks to spare"
 headline = "Blocks on<br>blocks<br><strong>on blocks</strong>"
@@ -78,7 +78,7 @@ headline = "Tell me about it"
 template = "detail-content"
 [[page_sections]]
 block = "one-column-1"
-content = "One column is good"
+content = "One column is good adsfdsfds<br>"
 headline = "One column"
 template = "1-column-text"
 [[page_sections]]
