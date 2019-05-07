@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22 23:00:00 +0000
+date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -52,16 +52,16 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
