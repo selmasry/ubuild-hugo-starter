@@ -1,6 +1,5 @@
 +++
 date = "2019-04-02T23:00:00+00:00"
-draft = true
 layout = "blocks"
 title = "Countdown to the new BHA charitable clinic for Liverpool"
 [[page_sections]]
