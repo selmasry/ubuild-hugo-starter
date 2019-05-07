@@ -132,5 +132,10 @@ col_3 = "Some more content"
 col_4 = "Now I'm content"
 image = "/uploads/2018/06/21/forestry-symbol.svg"
 template = "4-column-footer"
+[[page_sections]]
+block = "text-1"
+content = "The quick brown fox jumped"
+headline = "Dummy"
+template = "detail-content"
 
 +++
